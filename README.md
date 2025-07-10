@@ -10,4 +10,8 @@ Starting of I have taking the input regarding the stock to analyse related to th
 Following sections contents the data visualisation using matplotlib.
 I have also used to technical indicators like MACD, bollinger band and visualised it in order to get the intution for the stock.
 
-Starting of with the LSTM model for the following stock.
+Starting of with the LSTM model for the following stock using tensorflow and in build method for LSTM model.
+
+Following on is the traning and test of the model along with the accuracy based on R2,MSSE.
+
+
